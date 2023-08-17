@@ -1,0 +1,6 @@
+{
+    "diffEditor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on"
+}
